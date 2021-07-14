@@ -1,4 +1,4 @@
-# bookshop_graphql
+# Django GraphQL JWT
 Django+Graphene, GraphQL Demo
 
 ```bash
